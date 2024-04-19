@@ -1,0 +1,18 @@
+{
+  "name": "students-management-system-aak",
+  "version": "1.0.0",
+  "description": "this is student mangement system by typescript ",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "students-management-system-aak": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AMMAR AHMED KHAN",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
